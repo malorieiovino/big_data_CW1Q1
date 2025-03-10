@@ -1,5 +1,14 @@
 # Weather Data Analysis using MapReduce
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)](https://www.python.org/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-MapReduce-yellow.svg?logo=apache)](https://hadoop.apache.org/)
+[![Degree](https://img.shields.io/badge/MSc-Computational%20Linguistics-blueviolet.svg)](https://www.gold.ac.uk/)
+[![University](https://img.shields.io/badge/University-Goldsmiths%20UoL-black.svg)](https://www.gold.ac.uk/)
+[![Course](https://img.shields.io/badge/Course-Big%20Data%20Analysis-orange.svg)](https://www.gold.ac.uk/computing/)
+[![Data](https://img.shields.io/badge/Data-NCDC%20Weather-lightgrey.svg)](https://www.ncdc.noaa.gov/)
+
+## Overview
+
 ## Overview
 This project implements MapReduce computational model on Hadoop cluster to analyze NCDC weather data from 2007. The analysis focuses on April 2007 hourly weather records and extracts various descriptive statistics across different weather stations.
 
